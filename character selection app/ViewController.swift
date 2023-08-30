@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var test = 7
+    
     var x = 0
     
     @IBOutlet weak var topImageOutlet: UIImageView!
